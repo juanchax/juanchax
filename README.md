@@ -11,12 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchax&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juanchax&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=juanchax&theme=radical&no-frame=true&no-bg=false&margin-w=6)
 
 ### ✍️ Random Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Where my time is going rn..
+### 🔝 Where my time is going into rn..
 ![](https://github-contributor-stats.vercel.app/api?username=juanchax&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
